@@ -5,7 +5,6 @@ The code lives in `index.js`, and is an Express based app. Run `npm start` to la
 It also is covered by some minimal tests found in `specs/`.
 To run the tests, simply clone this repo, and run `npm test`.
 
-
 ## Problem: Conference Track Management
 
 You are planning a big programming conference and have received many proposals
@@ -77,3 +76,10 @@ here.
     03:30PM Sit Down and Write 30min
     04:00PM Rails for Python Developers lightning
     04:05PM Networking Event
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=64i-yt5muYA
+" target="_blank"><img src="http://img.youtube.com/vi/64i-yt5muYA/0.jpg" 
+alt="Conference NodeJS Project" width="240" height="180" border="10" /></a>
+
+[![Conference NodeJS Project](http://img.youtube.com/vi/64i-yt5muYA/0.jpg)](http://www.youtube.com/watch?v=64i-yt5muYA)
