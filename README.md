@@ -77,9 +77,4 @@ here.
     04:00PM Rails for Python Developers lightning
     04:05PM Networking Event
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=64i-yt5muYA
-" target="_blank"><img src="http://img.youtube.com/vi/64i-yt5muYA/0.jpg" 
-alt="Conference NodeJS Project" width="240" height="180" border="10" /></a>
-
 [![Conference NodeJS Project](http://img.youtube.com/vi/64i-yt5muYA/0.jpg)](http://www.youtube.com/watch?v=64i-yt5muYA)
