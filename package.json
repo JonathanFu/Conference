@@ -1,0 +1,21 @@
+{
+  "name": "Conference-JonathanFu",
+  "version": "0.0.1",
+  "description": "home work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "mocha test/index"
+  },
+  "author": "Jonathan Fu",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "request": "^2.63.1",
+    "mocha": "^2.3.3"
+  }
+}
