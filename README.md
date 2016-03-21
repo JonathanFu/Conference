@@ -2,7 +2,7 @@
 This project is a response to a coding work.
 The code lives in `index.js`, and is an Express based app. Run `npm start` to launch server.
 
-It also is covered by some minimal tests found in `specs/`.
+It is also covered by some minimal tests found in `test/`.
 To run the tests, simply clone this repo, and run `npm test`.
 
 ## Problem: Conference Track Management
